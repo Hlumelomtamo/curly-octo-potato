@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Potato Web Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+        }
+
+        main {
+            padding: 2em;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Potato Web Page</h1>
+    </header>
+
+    <main>
+        <p>Welcome to the potato-themed web page! Here, you'll find information about the wonderful world of potatoes.</p>
+        
+        <img src="th.jpg" alt="A potato" width="300">
+
+        <h2>Types of Potatoes</h2>
+        <ul>
+            <li>Russet Potatoes</li>
+            <li>Red Potatoes</li>
+            <li>Yukon Gold Potatoes</li>
+            <li>Sweet Potatoes</li>
+        </ul>
+
+        <p>Did you know that potatoes are a rich source of carbohydrates and are used in a variety of delicious dishes around the world?</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Potato Web Page</p>
+    </footer>
+
+</body>
+</html>
